@@ -10,18 +10,15 @@ h1{
 }
 
 h2{
-    color: red;
-    text-align: center;
-    font-size: small;
-    background-color: bisque;
-    border-radius: 5px;
+    font-size: 40px;
    
-}   
+}
+p{
+    color: rgb(0, 0, 0);
+}
 .name-highlight{
     color: rgb(248, 6, 131);
-    font-weight: 1px solid;
-    text-align: center;
-
+    
 }
 .half-width{
     width: 40%;
@@ -30,8 +27,8 @@ h2{
     padding-left: 2%;
     }
 
-    .half-width img{
-        width: 100%;
+.half-width img{
+    width: 100%;
     }
     .top-banner{
         border: red;
@@ -40,10 +37,9 @@ h2{
     section{
         height: 500px;
         background-repeat: no-repeat;
+        padding-bottom: 150px;
     }
-    .img{
-        border-image: 1 solid;
-    }
+    
     .web-developement{
 
     }
